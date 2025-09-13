@@ -21,3 +21,5 @@ logs/
 
 # User uploaded files (but keep directory structure)
 public/user-files/*
+!public/.gitkeep
+
